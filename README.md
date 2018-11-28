@@ -1,2 +1,5 @@
 # hello-world
-IT 196 Lab test
+
+Vim is the best
+
+# I changed the file for fun
